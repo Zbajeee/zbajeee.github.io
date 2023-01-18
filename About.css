@@ -1,0 +1,93 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 402px;
+  object-position: 50% 91.68%;
+  width: 402px;
+  background-image: url("images/yazidfoto.jpg");
+  background-position: 100% 50%;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 91px;
+  min-height: 16px;
+  width: 359px;
+  min-width: 134px;
+  margin: -76px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  width: 814px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 649px;
+  margin: 41px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-social-icons-1 {
+    width: 360px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 883px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 340px;
+    width: 340px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 86px;
+    width: 345px;
+    margin-top: -71px;
+    margin-right: -5px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
